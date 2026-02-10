@@ -1,4 +1,4 @@
-#Mestastic Listener Service
+# Mestastic Listener Service
 
 Example Console application using the Rust Language to listen to a connected Meshtastic Node via USB
 
