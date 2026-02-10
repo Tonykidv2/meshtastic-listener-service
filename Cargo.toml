@@ -1,0 +1,9 @@
+[package]
+name = "meshtastic-listener-service"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+meshtastic = { version = "0.1.8", features = ["bluetooth-le"] }
+tokio = "1.49.0"
+
